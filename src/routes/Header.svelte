@@ -31,7 +31,7 @@
 	</nav>
 
 	<div class="corner right-corner">
-		<a href="https://github.com/Pjdeveloper896/AarambhJsS" target="_blank" rel="noopener" title="View on GitHub">
+		<a href="https://github.com/Pjdeveloper896/AarambhJs" target="_blank" rel="noopener" title="View on GitHub">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
